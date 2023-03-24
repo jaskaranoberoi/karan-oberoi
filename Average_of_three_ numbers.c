@@ -11,6 +11,6 @@ int main()
     scanf("%d",&c);
     Average = (a+b+c)/3.0;
     printf("The Average is %f",Average);
-    return 0;
+return 0;
     
 }
